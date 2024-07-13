@@ -17,12 +17,11 @@ Route::get('/', function () {
     return view('layouts.contents.home');
 });
 
-Route::get('/contact-us', function () {
-    return view('layouts.contents.contact');
-});
-
 Route::get('/services', function () {
     return view('layouts.contents.service');
 });
 
+Route::get('/contact-us', function () {
+    return view('layouts.contents.contact');
+});
 
