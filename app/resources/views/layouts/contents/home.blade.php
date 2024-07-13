@@ -7,15 +7,15 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
-            <h1>Better Solutions For Your Business</h1>
-            <p>We are team of talented designers making websites with Bootstrap</p>
+            <h1>Pelayanan Ambulans Terpercaya</h1>
+            <p>Kami siap memberikan bantuan medis cepat dan terpercaya kapan pun Anda membutuhkannya. </p>
             <div class="d-flex">
               <a href="#about" class="btn-get-started">Get Started</a>
               {{-- <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> --}}
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
-            <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+            <img src="assets/img/hero-ambulance.png" class="img-fluid animated" alt="">
           </div>
         </div>
       </div>
@@ -89,7 +89,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Kami menyediakan layanan ambulan berkualitas tinggi dengan prioritas utama pada respons cepat dan perawatan medis yang terampil. Tim terlatih kami siap memberikan bantuan medis dalam situasi darurat, membawa Anda dengan aman ke fasilitas kesehatan terdekat untuk perawatan lebih lanjut.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -99,32 +99,32 @@
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-activity icon"></i></div>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="" class="stretched-link">Respons Cepat 24/7</a></h4>
+              <p>Kami tersedia sepanjang waktu untuk merespons panggilan darurat medis dengan cepat dan efisien, membawa bantuan langsung ke tempat Anda.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="" class="stretched-link">Tenaga Medis Terlatih</a></h4>
+              <p>Dilengkapi dengan paramedis berpengalaman dan terlatih yang siap memberikan perawatan medis lanjutan di dalam ambulans.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="" class="stretched-link">Peralatan Medis Modern</a></h4>
+              <p>Ambulans dilengkapi dengan peralatan medis canggih untuk menangani berbagai kondisi darurat, memastikan perawatan awal yang tepat sebelum mencapai fasilitas kesehatan.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-broadcast icon"></i></div>
-              <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="" class="stretched-link">Transportasi Aman dan Nyaman</a></h4>
+              <p>Kami menyediakan transportasi medis yang aman dan nyaman, dengan peralatan pendukung untuk memastikan kenyamanan pasien selama perjalanan menuju perawatan medis lebih lanjut.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -143,11 +143,11 @@
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-xl-9 text-center text-xl-start">
-            <h3>Call To Action</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>Segera Hubungi Layanan Darurat Medis Kami</h3>
+            <p>Panggilan darurat ke ambulans adalah langkah kunci dalam situasi medis mendesak.</p>
           </div>
           <div class="col-xl-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
+            <a class="cta-btn align-middle" href="#">Panggilan Darurat</a>
           </div>
         </div>
 
