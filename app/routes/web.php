@@ -17,8 +17,12 @@ Route::get('/', function () {
     return view('layouts.contents.home');
 });
 
-Route::get('/about', function () {
-    return view('layouts.contents.about');
+Route::get('/contact-us', function () {
+    return view('layouts.contents.contact');
+});
+
+Route::get('/services', function () {
+    return view('layouts.contents.service');
 });
 
 
