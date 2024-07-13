@@ -2,12 +2,12 @@
 <html lang="en">
 
 <head>
-    @include('layouts.template.head')
+    @include('layouts.templates.head')
 </head>
 
 <body class="index-page">
   <header id="header" class="header d-flex align-items-center fixed-top">
-    @include('layouts.template.nav')
+    @include('layouts.templates.nav')
   </header>
 
   <main class="main">
