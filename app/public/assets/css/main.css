@@ -854,6 +854,15 @@ section,
   align-items: center;
 }
 
+.hero-about {
+  width: 100%;
+  min-height: 30vh;
+  position: relative;
+  padding: 120px 0 60px 0;
+  display: flex;
+  align-items: center;
+}
+
 .hero h1 {
   margin: 0;
   font-size: 48px;

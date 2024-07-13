@@ -6,17 +6,14 @@
 </head>
 
 <body class="index-page">
-  <header id="header" class="header d-flex align-items-center @if(Request::is('/')) fixed-top @else sticky-top @endif">
-    @if(Request::is('/'))
+  <header id="header" class="header d-flex align-items-center fixed-top">
     @include('layouts.templates.nav')
-    @else
-    @include('layouts.templates.nav-sticky')
-@endif
   </header>
 
   <main class="main">
         @yield('content')
   </main>
+
 
   <footer id="footer" class="footer">
 
