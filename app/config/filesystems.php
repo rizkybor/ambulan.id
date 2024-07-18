@@ -82,4 +82,15 @@ return [
         public_path('storage') => storage_path('app/public'),
     ],
 
+    /*
+    |--------------------------------------------------------------------------
+    | My Dropbox
+    |--------------------------------------------------------------------------
+    |
+    */
+
+    'dropbox' => [
+    'driver' => 'dropbox',
+    'token' => env('DROPBOX_ACCESS_TOKEN'),
+    ],
 ];

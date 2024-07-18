@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UploadController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,11 +18,10 @@ Route::get('/', function () {
     return view('layouts.contents.home');
 });
 
-Route::get('/services', function () {
-    return view('layouts.contents.service');
-});
+Route::get('/services', [UploadController::class, 'index']);
 
 Route::get('/contact-us', function () {
     return view('layouts.contents.contact');
 });
 
+Route::post('/upload', [UploadController::class, 'upload'])->name('upload');
